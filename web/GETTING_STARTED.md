@@ -3,7 +3,7 @@
 ## 1단계: Supabase 설정
 
 ### 1.1 Supabase 계정 생성
-- https://supabase.com에 접속
+- https://supabase.com에 접속'
 - 무료 계정 생성
 - 새 프로젝트 생성
 
